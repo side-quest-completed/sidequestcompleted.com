@@ -21,8 +21,8 @@ TAG_CLOUD_MAX_ITEMS = 150
 DISPLAY_TAGS_INLINE = True
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = 'feeds.atom'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom'
+# FEED_ALL_ATOM = 'feeds.atom'
+# CATEGORY_FEED_ATOM = 'feeds/%s.atom'
 FEED_ALL_RSS = 'feeds.rss'
 CATEGORY_FEED_RSS = 'feeds/%s.rss'
 FEED_USE_SUMMARY = True
