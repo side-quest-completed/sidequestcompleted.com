@@ -1,11 +1,8 @@
-Castálio Podcast
-================
+Side Quest Copleted Podcast
+===========================
 
-.. image:: https://travis-ci.org/CastalioPodcast/CastalioPodcast.github.io.png?branch=pelican
-   :target: https://travis-ci.org/CastalioPodcast/CastalioPodcast.github.io
-   :alt: Build Status
 
-`Castálio Podcast <http://castalio.info>`__ , um podcast inspirado prá castálio!
+`Side Quest Completed Podcast <http://sidequestcompleted.com>`__ , a gamdev hobbyist podcast!
 
 
 Development notes
