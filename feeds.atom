@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Side Quest Completed</title><link href="http://sidequestcompleted.com/" rel="alternate"></link><link href="http://sidequestcompleted.com/feeds.atom" rel="self"></link><id>http://sidequestcompleted.com/</id><updated>2019-03-15T12:00:00-04:00</updated><entry><title>Episode One: The Journey Begins</title><link href="http://sidequestcompleted.com/episode-one-the-journey-begins.html" rel="alternate"></link><published>2019-03-15T12:00:00-04:00</published><updated>2019-03-15T12:00:00-04:00</updated><author><name>Side Quest Completed</name></author><id>tag:sidequestcompleted.com,2019-03-15:episode-one-the-journey-begins.html</id><summary type="html">&lt;p&gt;Welcome to Side Quest Completed, the gamedev hobby podcast!&lt;/p&gt;
+&lt;div class="section" id="listen-now"&gt;
+&lt;h2&gt;Listen Now&lt;/h2&gt;
+
+        &lt;div class="podcast text-center"&gt;
+            &lt;iframe src="https://archive.org/embed/SideQuestCompletedEpisode1" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
+
+            &lt;div class="podcast-download"&gt;
+                &lt;a class="btn btn-primary btn-sm" href="https://archive.org/download/SideQuestCompletedEpisode1/SideQuestCompletedEpisode1.mp3"&gt;&lt;i class="fa fa-download"&gt;&lt;/i&gt; MP3&lt;/a&gt;
+                &lt;a class="btn btn-primary btn-sm" href="https://archive.org/download/SideQuestCompletedEpisode1/SideQuestCompletedEpisode1.ogg"&gt;&lt;i class="fa fa-download"&gt;&lt;/i&gt; OGG&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;div class="section" id="topics"&gt;
+&lt;h2&gt;Topics&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Letting go of projects&lt;/li&gt;
+&lt;li&gt;Games that aren't puzzles but can be described as puzzles&lt;/li&gt;
+&lt;li&gt;Working a collection of games as a game&lt;/li&gt;
+&lt;li&gt;Time boxing drawings to get over artist's block&lt;/li&gt;
+&lt;li&gt;Prepping for a new job, balancing …&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><category term="podcast"></category><category term="game"></category><category term="gamedev"></category><category term="puzzle"></category><category term="overwatch"></category><category term="destiny"></category><category term="job"></category></entry></feed>

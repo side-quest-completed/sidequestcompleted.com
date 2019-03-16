@@ -1,6 +1,6 @@
 User-agent: *
 
-Sitemap: http://castalio.info/sitemap.xml
+Sitemap: http://sidequestcompleted.com/sitemap.xml
 
 Disallow: /archives.html
 Disallow: /author/*
