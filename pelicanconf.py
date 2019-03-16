@@ -154,9 +154,8 @@ DISPLAY_ARTICLE_INFO_ON_INDEX = True
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (
-    ('Sobre', '/sobre-o-castalio.html'),
-    ('Agenda', '/agenda.html'),
-    ('Episódios', '/archives.html'),
-    ('Episodes', '/tag/english.html'),
-    ('YouTube', '/youtube.html')
+    # ('About', '/about.html'),
+    # ('Agenda', '/agenda.html'),
+    ('Episodes', '/archives.html'),
+    # ('YouTube', '/youtube.html')
 )
