@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Side Quest Completed</title><link>http://sidequestcompleted.com/</link><description>A podcast about game development as a hobby.</description><lastBuildDate>Sat, 16 Mar 2019 16:31:35 -0000</lastBuildDate><language>en</language><copyright>&amp;#x2117; &amp;amp; &amp;#xA9; 2011-2019 Side Quest Completed</copyright><itunes:explicit>No</itunes:explicit><itunes:subtitle>A gamedev hobbyist journey</itunes:subtitle><itunes:author>Side Quest Completed</itunes:author><itunes:summary>A podcast about game development as a hobby.</itunes:summary><itunes:image href="http://sidequestcompleted.com/images/sidequestcompleted-podcast.png"></itunes:image><itunes:category text="Technology"><itunes:category text="Podcasting"></itunes:category></itunes:category><item><title>Episode One: The Journey Begins</title><itunes:author>Side Quest Completed</itunes:author><itunes:summary>Welcome to Side Quest Completed, the gamedev hobby podcast! Listen Now MP3 OGG Topics Letting go of projects Games that aren't puzzles but can be described as puzzles Working a collection of games as a game Time boxing drawings to get over artist's block Prepping for a new job, balancing …</itunes:summary><itunes:image href="http://sidequestcompleted.com/images/journey2.png"></itunes:image><enclosure type="audio/mpeg" url="https://archive.org/download/SideQuestCompletedEpisode1/SideQuestCompletedEpisode1.mp3"></enclosure><description><![CDATA[<img src="http://sidequestcompleted.com/images/journey2.png" alt="Journey" />]]><![CDATA[<p>Welcome to Side Quest Completed, the gamedev hobby podcast!</p>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Side Quest Completed</title><link>https://castalio.info/</link><description>A podcast about game development as a hobby.</description><lastBuildDate>Mon, 25 Mar 2019 11:30:45 -0000</lastBuildDate><language>en</language><copyright>&amp;#x2117; &amp;amp; &amp;#xA9; 2011-2019 Side Quest Completed</copyright><itunes:explicit>No</itunes:explicit><itunes:subtitle>A gamedev hobbyist journey</itunes:subtitle><itunes:author>Side Quest Completed</itunes:author><itunes:summary>A podcast about game development as a hobby.</itunes:summary><itunes:image href="http://sidequestcompleted.com/images/sidequestcompleted-podcast.png"></itunes:image><itunes:category text="Technology"><itunes:category text="Podcasting"></itunes:category></itunes:category><item><title>Episode Two: Burnout</title><itunes:author>Side Quest Completed</itunes:author><itunes:summary>Welcome to Side Quest Completed, the gamedev hobby podcast! Listen Now MP3 OGG Topics Recent project updates Burnout over the years Combatting burnout The cycle of lack-of-energy and building habits back</itunes:summary><itunes:image href="https://castalio.info/images/burnout.jpeg"></itunes:image><enclosure type="audio/mpeg" url="https://archive.org/download/SideQuestCompletedEpisode1/SideQuestCompletedEpisode1.mp3"></enclosure><description><![CDATA[<img src="https://castalio.info/images/burnout.jpeg" alt="Burnout Paradise" />]]><![CDATA[<p>Welcome to Side Quest Completed, the gamedev hobby podcast!</p>
+<div class="section" id="listen-now">
+<h2>Listen Now</h2>
+
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/SideQuestCompletedEpisode2" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/SideQuestCompletedEpisode2/SideQuestCompletedEpisode2.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/SideQuestCompletedEpisode2/SideQuestCompletedEpisode2.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        </div>
+<div class="section" id="topics">
+<h2>Topics</h2>
+<ul class="simple">
+<li>Recent project updates</li>
+<li>Burnout over the years</li>
+<li>Combatting burnout</li>
+<li>The cycle of lack-of-energy and building habits back</li>
+</ul>
+</div>
+]]></description><link>https://castalio.info/episode-two-burnout.html</link><guid>https://castalio.info/episode-two-burnout.html</guid><pubDate>Tue, 19 Mar 2019 12:00:00 -0400</pubDate></item><item><title>Episode One: The Journey Begins</title><itunes:author>Side Quest Completed</itunes:author><itunes:summary>Welcome to Side Quest Completed, the gamedev hobby podcast! Listen Now MP3 OGG Topics Letting go of projects Games that aren't puzzles but can be described as puzzles Working a collection of games as a game Time boxing drawings to get over artist's block Prepping for a new job, balancing …</itunes:summary><itunes:image href="https://castalio.info/images/journey2.png"></itunes:image><enclosure type="audio/mpeg" url="https://archive.org/download/SideQuestCompletedEpisode1/SideQuestCompletedEpisode1.mp3"></enclosure><description><![CDATA[<img src="https://castalio.info/images/journey2.png" alt="Journey" />]]><![CDATA[<p>Welcome to Side Quest Completed, the gamedev hobby podcast!</p>
 <div class="section" id="listen-now">
 <h2>Listen Now</h2>
 
@@ -19,4 +41,4 @@
 <li>Games that aren't puzzles but can be described as puzzles</li>
 <li>Working a collection of games as a game</li>
 <li>Time boxing drawings to get over artist's block</li>
-<li>Prepping for a new job, balancing …</li></ul></div>]]></description><link>http://sidequestcompleted.com/episode-one-the-journey-begins.html</link><guid>http://sidequestcompleted.com/episode-one-the-journey-begins.html</guid><pubDate>Fri, 15 Mar 2019 12:00:00 -0400</pubDate></item></channel></rss>
+<li>Prepping for a new job, balancing …</li></ul></div>]]></description><link>https://castalio.info/episode-one-the-journey-begins.html</link><guid>https://castalio.info/episode-one-the-journey-begins.html</guid><pubDate>Mon, 11 Mar 2019 12:00:00 -0400</pubDate></item></channel></rss>
