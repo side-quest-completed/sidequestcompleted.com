@@ -6,6 +6,14 @@
                 {% if article.featured_image %}
                 <div class="post-image">
                     <img src="{{ article.featured_image }}" alt="{{ article.featured_image_alt }}" data-adaptive-background="1"/>
+                    {% if article.image_credit %}
+                        <em>
+                            Image Credit:
+                            {% if article.image_credit_url %}<a href="{{ article.image_credit_url }}">{% endif %}
+                            {{ article.image_credit }}
+                            {% if article.image_credit_url %}</a>{% endif %}
+                        </em>
+                    {% endif %}
                 </div>
                 {% endif %}
                 <div class="post-body"{% if not article.featured_image %} style="margin-left: 0px"{% endif %}>

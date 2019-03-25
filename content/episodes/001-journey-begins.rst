@@ -1,11 +1,12 @@
 Episode One: The Journey Begins
 ###############################
-:date: 2019-03-15 12:00
+:date: 2019-03-11 12:00
 :category: Podcast
 :podcast: https://archive.org/download/SideQuestCompletedEpisode1/SideQuestCompletedEpisode1.mp3
 :tags: podcast, game, gamedev, puzzle, overwatch, destiny, job
 :image: images/journey2.png
 :image-alt: Journey
+:image_credit: Journey, Playstation 3
 
 Welcome to Side Quest Completed, the gamedev hobby podcast!
 

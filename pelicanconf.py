@@ -94,7 +94,7 @@ SUBSCRIBE = [
     # ('Pocket Casts', 'http://pca.st/castalio'),
     # ('Podflix', 'https://podflix.com.br/castaliopodcast'),
     (None, None),
-    ('FeedBurner (RSS Feed)', 'http://feeds.feedburner.com/SideQuestCompletedRSS'),
+    ('FeedBurner (RSS Feed)', 'http://feeds.feedburner.com/SideQuestCompleted'),
     # ('Spotify do Castálio', 'https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg'),
     # ('YouTube', 'http://bit.ly/CanalCastalio'),
     # ('Overcast', 'https://overcast.fm/itunes446259197/cast-lio-podcast'),

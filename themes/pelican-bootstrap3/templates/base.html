@@ -79,14 +79,16 @@
         <link href="{{ SITEURL }}/{{ CUSTOM_CSS }}" rel="stylesheet">
     {% endif %}
 
-    {% if FEED_ALL_ATOM %}
+    <!-- {% if FEED_ALL_ATOM %}
         <link href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate"
               title="{{ SITENAME }} ATOM Feed"/>
     {% endif %}
     {% if FEED_ALL_RSS %}
         <link href="{{ SITEURL }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate"
               title="{{ SITENAME }} RSS Feed"/>
-    {% endif %}
+    {% endif %} -->
+
+    <link href="http://feeds.feedburner.com/SideQuestCompleted" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
 
 </head>
 <body>

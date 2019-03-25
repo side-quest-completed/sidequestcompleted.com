@@ -83,6 +83,14 @@
                 {% if article.featured_image %}
                 <div class="pull-left clear article-figure figure">
                     <img alt="{{ article.featured_image_alt }}" src="{{ article.featured_image }}"/>
+                    {% if article.image_credit %}
+                        <em>
+                            Image Credit:
+                            {% if article.image_credit_url %}<a href="{{ article.image_credit_url }}">{% endif %}
+                            {{ article.image_credit }}
+                            {% if article.image_credit_url %}</a>{% endif %}
+                        </em>
+                    {% endif %}
                 </div>
                 {% endif %}
                 {{ article.content }}
