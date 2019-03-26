@@ -4,112 +4,112 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://sidequestcompleted.com/index.html</loc>
-<lastmod>2019-03-26T01:00:54-00:00</lastmod>
+<loc>http://sidequestcompleted.com/index.html</loc>
+<lastmod>2019-03-26T01:02:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://sidequestcompleted.com/archives.html</loc>
-<lastmod>2019-03-26T01:00:54-00:00</lastmod>
+<loc>http://sidequestcompleted.com/archives.html</loc>
+<lastmod>2019-03-26T01:02:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://sidequestcompleted.com/categories.html</loc>
-<lastmod>2019-03-26T01:00:54-00:00</lastmod>
+<loc>http://sidequestcompleted.com/categories.html</loc>
+<lastmod>2019-03-26T01:02:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://sidequestcompleted.com/episode-two-burnout.html</loc>
+<loc>http://sidequestcompleted.com/episode-two-burnout.html</loc>
 <lastmod>2019-03-19T12:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://sidequestcompleted.com/episode-one-the-journey-begins.html</loc>
+<loc>http://sidequestcompleted.com/episode-one-the-journey-begins.html</loc>
 <lastmod>2019-03-11T12:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://sidequestcompleted.com/category/podcast.html</loc>
+<loc>http://sidequestcompleted.com/category/podcast.html</loc>
 <lastmod>2019-03-19T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://sidequestcompleted.com/tag/podcast.html</loc>
+<loc>http://sidequestcompleted.com/tag/podcast.html</loc>
 <lastmod>2019-03-19T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://sidequestcompleted.com/tag/game.html</loc>
+<loc>http://sidequestcompleted.com/tag/game.html</loc>
 <lastmod>2019-03-19T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://sidequestcompleted.com/tag/gamedev.html</loc>
+<loc>http://sidequestcompleted.com/tag/gamedev.html</loc>
 <lastmod>2019-03-19T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://sidequestcompleted.com/tag/job.html</loc>
+<loc>http://sidequestcompleted.com/tag/job.html</loc>
 <lastmod>2019-03-19T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://sidequestcompleted.com/tag/burnout.html</loc>
+<loc>http://sidequestcompleted.com/tag/burnout.html</loc>
 <lastmod>2019-03-19T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://sidequestcompleted.com/tag/work-life-balance.html</loc>
+<loc>http://sidequestcompleted.com/tag/work-life-balance.html</loc>
 <lastmod>2019-03-19T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://sidequestcompleted.com/tag/puzzle.html</loc>
+<loc>http://sidequestcompleted.com/tag/puzzle.html</loc>
 <lastmod>2019-03-11T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://sidequestcompleted.com/tag/overwatch.html</loc>
+<loc>http://sidequestcompleted.com/tag/overwatch.html</loc>
 <lastmod>2019-03-11T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://sidequestcompleted.com/tag/destiny.html</loc>
+<loc>http://sidequestcompleted.com/tag/destiny.html</loc>
 <lastmod>2019-03-11T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://sidequestcompleted.com/author/side-quest-completed.html</loc>
+<loc>http://sidequestcompleted.com/author/side-quest-completed.html</loc>
 <lastmod>2019-03-19T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
