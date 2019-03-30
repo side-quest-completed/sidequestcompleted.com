@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Side Quest Completed</title><link>http://sidequestcompleted.com/</link><description>A podcast about game development as a hobby.</description><lastBuildDate>Tue, 26 Mar 2019 01:02:40 -0000</lastBuildDate><language>en</language><copyright>&amp;#x2117; &amp;amp; &amp;#xA9; 2011-2019 Side Quest Completed</copyright><itunes:explicit>No</itunes:explicit><itunes:subtitle>A gamedev hobbyist journey</itunes:subtitle><itunes:author>Side Quest Completed</itunes:author><itunes:summary>A podcast about game development as a hobby.</itunes:summary><itunes:image href="http://sidequestcompleted.com/images/sidequestcompleted-podcast.png"></itunes:image><itunes:category text="Technology"><itunes:category text="Podcasting"></itunes:category></itunes:category><item><title>Episode Two: Burnout</title><itunes:author>Side Quest Completed</itunes:author><itunes:summary>Welcome to Side Quest Completed, the gamedev hobby podcast! Listen Now MP3 OGG Topics Recent project updates Burnout over the years Combatting burnout The cycle of lack-of-energy and building habits back</itunes:summary><itunes:image href="http://sidequestcompleted.com/images/burnout.jpeg"></itunes:image><enclosure type="audio/mpeg" url="https://archive.org/download/SideQuestCompletedEpisode1/SideQuestCompletedEpisode1.mp3"></enclosure><description><![CDATA[<img src="http://sidequestcompleted.com/images/burnout.jpeg" alt="Burnout Paradise" />]]><![CDATA[<p>Welcome to Side Quest Completed, the gamedev hobby podcast!</p>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Side Quest Completed</title><link>http://sidequestcompleted.com/</link><description>A podcast about game development as a hobby.</description><lastBuildDate>Fri, 29 Mar 2019 22:05:12 -0000</lastBuildDate><language>en</language><copyright>&amp;#x2117; &amp;amp; &amp;#xA9; 2011-2019 Side Quest Completed</copyright><itunes:explicit>No</itunes:explicit><itunes:subtitle>A gamedev hobbyist journey</itunes:subtitle><itunes:author>Side Quest Completed</itunes:author><itunes:summary>A podcast about game development as a hobby.</itunes:summary><itunes:image href="http://sidequestcompleted.com/images/sidequestcompleted-podcast.png"></itunes:image><itunes:category text="Technology"><itunes:category text="Podcasting"></itunes:category></itunes:category><item><title>Episode Three: What a Tool</title><itunes:author>Side Quest Completed</itunes:author><itunes:summary>Welcome to Side Quest Completed, the gamedev hobby podcast! Listen Now MP3 OGG Topics We talk about way too many TV shows Jerry Seinfield's "don't break the chain" calendar The pomodoro technique Putting personal stories into your games Practicing marketing by failing repeatedly The Storyshot Podcast PICO8 RenPy Unity Test …</itunes:summary><itunes:image href="http://sidequestcompleted.com/images/tools.jpeg"></itunes:image><enclosure type="audio/mpeg" url="https://archive.org/download/SideQuestCompletedEpisode3/SideQuestCompletedEpisode3.mp3"></enclosure><description><![CDATA[<img src="http://sidequestcompleted.com/images/tools.jpeg" alt="Tools" />]]><![CDATA[<p>Welcome to Side Quest Completed, the gamedev hobby podcast!</p>
+<div class="section" id="listen-now">
+<h2>Listen Now</h2>
+
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/SideQuestCompletedEpisode3" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/SideQuestCompletedEpisode3/SideQuestCompletedEpisode3.mp3"><i class="fa fa-download"></i> MP3</a>
+                <a class="btn btn-primary btn-sm" href="https://archive.org/download/SideQuestCompletedEpisode3/SideQuestCompletedEpisode3.ogg"><i class="fa fa-download"></i> OGG</a>
+            </div>
+        </div>
+        </div>
+<div class="section" id="topics">
+<h2>Topics</h2>
+<ul class="simple">
+<li>We talk about way too many TV shows</li>
+<li>Jerry Seinfield's <a class="reference external" href="https://lifehacker.com/jerry-seinfelds-productivity-secret-281626">&quot;don't break the chain&quot;</a> calendar</li>
+<li>The <a class="reference external" href="https://en.wikipedia.org/wiki/Pomodoro_Technique">pomodoro technique</a></li>
+<li>Putting personal stories into your games</li>
+<li>Practicing marketing by failing repeatedly</li>
+<li><a class="reference external" href="http://storyshots.libsyn.com/">The Storyshot Podcast</a></li>
+<li><a class="reference external" href="https://www.lexaloffle.com/pico-8.php">PICO8</a></li>
+<li><a class="reference external" href="https://www.renpy.org/">RenPy</a></li>
+<li><a class="reference external" href="https://www.unity.com/">Unity</a></li>
+<li><a class="reference external" href="https://medium.com/&#64;kentbeck_7670/test-commit-revert-870bbd756864">Test …</a></li></ul></div>]]></description><link>http://sidequestcompleted.com/episode-three-what-a-tool.html</link><guid>http://sidequestcompleted.com/episode-three-what-a-tool.html</guid><pubDate>Mon, 25 Mar 2019 12:00:00 -0400</pubDate></item><item><title>Episode Two: Burnout</title><itunes:author>Side Quest Completed</itunes:author><itunes:summary>Welcome to Side Quest Completed, the gamedev hobby podcast! Listen Now MP3 OGG Topics Recent project updates Burnout over the years Combatting burnout The cycle of lack-of-energy and building habits back</itunes:summary><itunes:image href="http://sidequestcompleted.com/images/burnout.jpeg"></itunes:image><enclosure type="audio/mpeg" url="https://archive.org/download/SideQuestCompletedEpisode2/SideQuestCompletedEpisode2.mp3"></enclosure><description><![CDATA[<img src="http://sidequestcompleted.com/images/burnout.jpeg" alt="Burnout Paradise" />]]><![CDATA[<p>Welcome to Side Quest Completed, the gamedev hobby podcast!</p>
 <div class="section" id="listen-now">
 <h2>Listen Now</h2>
 
