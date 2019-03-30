@@ -2,7 +2,7 @@ Episode Two: Burnout
 ####################
 :date: 2019-03-19 12:00
 :category: Podcast
-:podcast: https://archive.org/download/SideQuestCompletedEpisode1/SideQuestCompletedEpisode1.mp3
+:podcast: https://archive.org/download/SideQuestCompletedEpisode2/SideQuestCompletedEpisode2.mp3
 :tags: podcast, game, gamedev, job, burnout, work-life-balance
 :image: images/burnout.jpeg
 :image-alt: Burnout Paradise
