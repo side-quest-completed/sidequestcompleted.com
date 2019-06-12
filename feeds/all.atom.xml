@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Side Quest Completed</title><link href="http://sidequestcompleted.com/" rel="alternate"></link><link href="http://sidequestcompleted.com/feeds/all.atom.xml" rel="self"></link><id>http://sidequestcompleted.com/</id><updated>2019-06-05T12:00:00-04:00</updated><entry><title>Episode Four: Foolishness</title><link href="http://sidequestcompleted.com/episode-four-foolishness.html" rel="alternate"></link><published>2019-06-05T12:00:00-04:00</published><updated>2019-06-05T12:00:00-04:00</updated><author><name>Side Quest Completed</name></author><id>tag:sidequestcompleted.com,2019-06-05:episode-four-foolishness.html</id><summary type="html">&lt;p&gt;Welcome to Side Quest Completed, the gamedev hobby podcast!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Side Quest Completed</title><link href="http://sidequestcompleted.com/" rel="alternate"></link><link href="http://sidequestcompleted.com/feeds/all.atom.xml" rel="self"></link><id>http://sidequestcompleted.com/</id><updated>2019-06-12T12:00:00-04:00</updated><entry><title>Episode Five: Willpower Doesn't Work</title><link href="http://sidequestcompleted.com/episode-five-willpower-doesnt-work.html" rel="alternate"></link><published>2019-06-12T12:00:00-04:00</published><updated>2019-06-12T12:00:00-04:00</updated><author><name>Side Quest Completed</name></author><id>tag:sidequestcompleted.com,2019-06-12:episode-five-willpower-doesnt-work.html</id><summary type="html">&lt;p&gt;Welcome to Side Quest Completed, the gamedev hobby podcast!&lt;/p&gt;
+&lt;div class="section" id="listen-now"&gt;
+&lt;h2&gt;Listen Now&lt;/h2&gt;
+
+        &lt;div class="podcast text-center"&gt;
+            &lt;iframe src="https://archive.org/embed/SideQuestCompletedEpisode5" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
+
+            &lt;div class="podcast-download"&gt;
+                &lt;a class="btn btn-primary btn-sm" href="https://archive.org/download/SideQuestCompletedEpisode5/SideQuestCompletedEpisode5.mp3"&gt;&lt;i class="fa fa-download"&gt;&lt;/i&gt; MP3&lt;/a&gt;
+                &lt;a class="btn btn-primary btn-sm" href="https://archive.org/download/SideQuestCompletedEpisode5/SideQuestCompletedEpisode5.ogg"&gt;&lt;i class="fa fa-download"&gt;&lt;/i&gt; OGG&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;div class="section" id="topics"&gt;
+&lt;h2&gt;Topics&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Work is going great for both of us&lt;/li&gt;
+&lt;li&gt;The book, Willpower Doesn't Work, is reviewed&lt;/li&gt;
+&lt;li&gt;Making pubic commitments to keep honest&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="choice-quotes"&gt;
+&lt;h2&gt;Choice Quotes&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&amp;quot;Frustrating is not the same as challenging&amp;quot;&lt;/li&gt;
+&lt;li&gt;&amp;quot;If you want to write, you've …&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><category term="gamedev"></category><category term="job"></category><category term="writing"></category><category term="productivity"></category><category term="book"></category><category term="review"></category></entry><entry><title>Episode Four: Foolishness</title><link href="http://sidequestcompleted.com/episode-four-foolishness.html" rel="alternate"></link><published>2019-06-05T12:00:00-04:00</published><updated>2019-06-05T12:00:00-04:00</updated><author><name>Side Quest Completed</name></author><id>tag:sidequestcompleted.com,2019-06-05:episode-four-foolishness.html</id><summary type="html">&lt;p&gt;Welcome to Side Quest Completed, the gamedev hobby podcast!&lt;/p&gt;
 &lt;div class="section" id="listen-now"&gt;
 &lt;h2&gt;Listen Now&lt;/h2&gt;
 
