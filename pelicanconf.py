@@ -90,10 +90,10 @@ SITEMAP = {
 }
 
 SUBSCRIBE = [
-    # ('iTunes', 'https://itunes.apple.com/br/podcast/castalio-podcast/id446259197'),
+    ('iTunes', 'https://podcasts.apple.com/us/podcast/side-quest-completed/id1465930723'),
     # ('Pocket Casts', 'http://pca.st/castalio'),
     # ('Podflix', 'https://podflix.com.br/castaliopodcast'),
-    (None, None),
+    # (None, None),
     ('FeedBurner (RSS Feed)', 'http://feeds.feedburner.com/SideQuestCompleted'),
     # ('Spotify do Castálio', 'https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg'),
     # ('YouTube', 'http://bit.ly/CanalCastalio'),
@@ -102,7 +102,7 @@ SUBSCRIBE = [
 
 # Disqus configuration
 # DISQUS_SITENAME = 'castliopodcast'
-# GOOGLE_ANALYTICS = "UA-21449168-1"
+GOOGLE_ANALYTICS = "UA-953592-27"
 
 # Dark navbar
 BOOTSTRAP_NAVBAR_INVERSE = True
@@ -110,18 +110,18 @@ BOOTSTRAP_NAVBAR_INVERSE = True
 # Site banner in the sidebar
 BANNER = True
 BANNER_ALL_PAGES = True
-BANNER_IMAGE = 'images/gdslogobig.png'
-BANNER_IMAGE_CLASSES = 'img-circle'
+BANNER_IMAGE = 'images/sqc_logobig.png'
+BANNER_IMAGE_CLASSES = ''
 BANNER_SUBTITLE = u'A hobbyist gamedev adventure!'
 BANNER_BACKGROUND_COLOR='#fff'
-SITELOGO = 'images/gdslogobig.png'
+SITELOGO = 'images/sqc_logobig.png'
 SITELOGO_SIZE = 20
 HIDE_SITENAME = True
 HIDE_SIDEBAR = True
 SIDEBAR_BRAND_SUBTITLE = u"A hobbyist gamedev adventure!"
-SIDEBAR_BRAND_IMAGE = 'images/gdslogobig.png'
+SIDEBAR_BRAND_IMAGE = 'images/sqc_logobig.png'
 SIDEBAR_BRAND_IMAGE_HEIGHT = 300
-FAVICON = 'images/gdslogobig.ico'
+FAVICON = 'images/sqc_logo.ico'
 
 # iTunes plugin settings
 PODCAST_FEED_PATH = u'feeds/podcast.rss'
@@ -135,7 +135,7 @@ PODCAST_FEED_AUTHOR = AUTHOR
 PODCAST_FEED_SUMMARY = (
     'A podcast about game development as a hobby.'
 )
-PODCAST_FEED_IMAGE = 'http://sidequestcompleted.com/images/sidequestcompleted-podcast.png'
+PODCAST_FEED_IMAGE = 'http://sidequestcompleted.com/images/sqc_logo_header.png'
 PODCAST_FEED_CATEGORY = ['Technology', 'Podcasting']
 
 # Cleaner page links
