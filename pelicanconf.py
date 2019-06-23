@@ -91,6 +91,7 @@ SITEMAP = {
 
 SUBSCRIBE = [
     ('iTunes', 'https://podcasts.apple.com/us/podcast/side-quest-completed/id1465930723'),
+    ('Google Play', 'https://play.google.com/music/listen?u=0#/ps/I7nfqboh2m3f7wsw3qgg2iitl7i'),
     # ('Pocket Casts', 'http://pca.st/castalio'),
     # ('Podflix', 'https://podflix.com.br/castaliopodcast'),
     # (None, None),
