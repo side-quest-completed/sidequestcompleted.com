@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Side Quest Completed</title><link>http://sidequestcompleted.com/</link><description></description><lastBuildDate>Wed, 12 Jun 2019 12:00:00 -0400</lastBuildDate><item><title>Episode Five: Willpower Doesn't Work</title><link>http://sidequestcompleted.com/episode-five-willpower-doesnt-work.html</link><description>&lt;p&gt;Welcome to Side Quest Completed, the gamedev hobby podcast!&lt;/p&gt;
+<rss version="2.0"><channel><title>Side Quest Completed</title><link>http://sidequestcompleted.com/</link><description></description><lastBuildDate>Wed, 19 Jun 2019 12:00:00 -0400</lastBuildDate><item><title>Episode Six: Failure to Launch</title><link>http://sidequestcompleted.com/episode-six-failure-to-launch.html</link><description>&lt;p&gt;Welcome to Side Quest Completed, the gamedev hobby podcast!&lt;/p&gt;
+&lt;div class="section" id="listen-now"&gt;
+&lt;h2&gt;Listen Now&lt;/h2&gt;
+
+        &lt;div class="podcast text-center"&gt;
+            &lt;iframe src="https://archive.org/embed/SideQuestCompletedEpisode6" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
+
+            &lt;div class="podcast-download"&gt;
+                &lt;a class="btn btn-primary btn-sm" href="https://archive.org/download/SideQuestCompletedEpisode6/SideQuestCompletedEpisode6.mp3"&gt;&lt;i class="fa fa-download"&gt;&lt;/i&gt; MP3&lt;/a&gt;
+                &lt;a class="btn btn-primary btn-sm" href="https://archive.org/download/SideQuestCompletedEpisode6/SideQuestCompletedEpisode6.ogg"&gt;&lt;i class="fa fa-download"&gt;&lt;/i&gt; OGG&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;div class="section" id="topics"&gt;
+&lt;h2&gt;Topics&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Neon Den&lt;/li&gt;
+&lt;li&gt;We talk about simplifying difficult game features to move past them&lt;/li&gt;
+&lt;li&gt;“I accidentally a career in web development”&lt;/li&gt;
+&lt;li&gt;Project S.C.O.R.P.I.O.N.&lt;/li&gt;
+&lt;li&gt;Axe Princess&lt;/li&gt;
+&lt;li&gt;Working with friends... Or not …&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Side Quest Completed</dc:creator><pubDate>Wed, 19 Jun 2019 12:00:00 -0400</pubDate><guid isPermaLink="false">tag:sidequestcompleted.com,2019-06-19:episode-six-failure-to-launch.html</guid><category>gamedev</category><category>failure</category><category>gamejam</category></item><item><title>Episode Five: Willpower Doesn't Work</title><link>http://sidequestcompleted.com/episode-five-willpower-doesnt-work.html</link><description>&lt;p&gt;Welcome to Side Quest Completed, the gamedev hobby podcast!&lt;/p&gt;
 &lt;div class="section" id="listen-now"&gt;
 &lt;h2&gt;Listen Now&lt;/h2&gt;
 
