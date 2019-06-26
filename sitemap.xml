@@ -5,22 +5,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/index.html</loc>
-<lastmod>2019-06-23T19:07:33-00:00</lastmod>
+<lastmod>2019-06-26T13:39:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/archives.html</loc>
-<lastmod>2019-06-23T19:07:33-00:00</lastmod>
+<lastmod>2019-06-26T13:39:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/categories.html</loc>
-<lastmod>2019-06-23T19:07:33-00:00</lastmod>
+<lastmod>2019-06-26T13:39:42-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/episode-seven-marie-kondo-and-the-life-changing-magic-of-reducing-scope.html</loc>
+<lastmod>2019-06-26T12:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -68,14 +75,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/category/podcast.html</loc>
-<lastmod>2019-06-19T12:00:00-04:56</lastmod>
+<lastmod>2019-06-26T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/tag/gamedev.html</loc>
-<lastmod>2019-06-19T12:00:00-04:56</lastmod>
+<lastmod>2019-06-26T12:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/tag/scope.html</loc>
+<lastmod>2019-06-26T12:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/tag/planning.html</loc>
+<lastmod>2019-06-26T12:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/tag/organizing.html</loc>
+<lastmod>2019-06-26T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -229,7 +257,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/author/side-quest-completed.html</loc>
-<lastmod>2019-06-19T12:00:00-04:56</lastmod>
+<lastmod>2019-06-26T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
