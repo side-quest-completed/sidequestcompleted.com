@@ -96,9 +96,12 @@ SUBSCRIBE = [
     # ('Podflix', 'https://podflix.com.br/castaliopodcast'),
     # (None, None),
     ('FeedBurner (RSS Feed)', 'http://feeds.feedburner.com/SideQuestCompleted'),
-    # ('Spotify do Castálio', 'https://open.spotify.com/user/elyezermr/playlist/0PDXXZRXbJNTPVSnopiMXg'),
+    ('Spotify', 'https://podcasters.spotify.com/podcast/2EsVyWCx5Fb031FuRLBeqp'),
     # ('YouTube', 'http://bit.ly/CanalCastalio'),
     # ('Overcast', 'https://overcast.fm/itunes446259197/cast-lio-podcast'),
+    (None, None),
+    ('Calvin', 'http://www.ironfroggy.com'),
+    ('Jaycie', 'http://www.jcholder.com/'),
 ]
 
 # Disqus configuration

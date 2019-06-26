@@ -46,10 +46,5 @@ Topics
 - Deep Deep Labyrinth
 - Crystal Beast Tarrask
 
-
-Choice Quotes
--------------
-- "Frustrating is not the same as challenging"
-- "If you want to write, you've got to read"
-
 .. _Calvin Spealman: http://www.ironfroggy.com
+.. _J. C. Holder: http://www.jcholder.com/
