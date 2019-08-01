@@ -5,22 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/index.html</loc>
-<lastmod>2019-07-20T11:09:33-00:00</lastmod>
+<lastmod>2019-08-01T10:40:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/archives.html</loc>
-<lastmod>2019-07-20T11:09:33-00:00</lastmod>
+<lastmod>2019-08-01T10:40:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/categories.html</loc>
-<lastmod>2019-07-20T11:09:33-00:00</lastmod>
+<lastmod>2019-08-01T10:40:00-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/episode-eleven-initial-project-management.html</loc>
+<lastmod>2019-07-31T12:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/episode-ten-the-one-about-dev-updates.html</loc>
+<lastmod>2019-07-24T12:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -89,28 +103,77 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/category/podcast.html</loc>
-<lastmod>2019-07-17T12:00:00-04:56</lastmod>
+<lastmod>2019-07-31T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/tag/gamedev.html</loc>
-<lastmod>2019-07-17T12:00:00-04:56</lastmod>
+<lastmod>2019-07-31T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/tag/community.html</loc>
-<lastmod>2019-07-17T12:00:00-04:56</lastmod>
+<lastmod>2019-07-31T12:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/tag/organization.html</loc>
+<lastmod>2019-07-31T12:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/tag/planning.html</loc>
+<lastmod>2019-07-31T12:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/tag/timebox.html</loc>
+<lastmod>2019-07-31T12:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/tag/bullet-journal.html</loc>
+<lastmod>2019-07-31T12:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/tag/agile.html</loc>
+<lastmod>2019-07-31T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/tag/online.html</loc>
-<lastmod>2019-07-17T12:00:00-04:56</lastmod>
+<lastmod>2019-07-24T12:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/tag/marketing.html</loc>
+<lastmod>2019-07-24T12:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/tag/audience.html</loc>
+<lastmod>2019-07-24T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -124,13 +187,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/tag/scope.html</loc>
-<lastmod>2019-07-03T12:00:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://sidequestcompleted.com/tag/planning.html</loc>
 <lastmod>2019-07-03T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -292,7 +348,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/author/side-quest-completed.html</loc>
-<lastmod>2019-07-17T12:00:00-04:56</lastmod>
+<lastmod>2019-07-31T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
