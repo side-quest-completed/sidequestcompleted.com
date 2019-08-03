@@ -96,7 +96,7 @@ SUBSCRIBE = [
     # ('Podflix', 'https://podflix.com.br/castaliopodcast'),
     # (None, None),
     ('FeedBurner (RSS Feed)', 'http://feeds.feedburner.com/SideQuestCompleted'),
-    ('Spotify', 'https://podcasters.spotify.com/podcast/2EsVyWCx5Fb031FuRLBeqp'),
+    ('Spotify', 'https://open.spotify.com/show/2EsVyWCx5Fb031FuRLBeqp'),
     # ('YouTube', 'http://bit.ly/CanalCastalio'),
     # ('Overcast', 'https://overcast.fm/itunes446259197/cast-lio-podcast'),
     (None, None),
