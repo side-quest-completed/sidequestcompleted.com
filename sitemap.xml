@@ -5,22 +5,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/index.html</loc>
-<lastmod>2019-08-08T00:03:24-00:00</lastmod>
+<lastmod>2019-08-26T23:42:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/archives.html</loc>
-<lastmod>2019-08-08T00:03:24-00:00</lastmod>
+<lastmod>2019-08-26T23:42:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/categories.html</loc>
-<lastmod>2019-08-08T00:03:24-00:00</lastmod>
+<lastmod>2019-08-26T23:42:38-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/episode-thirteen-gamdev-daily-grind.html</loc>
+<lastmod>2019-08-14T12:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -110,21 +117,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/category/podcast.html</loc>
-<lastmod>2019-08-07T12:00:00-04:56</lastmod>
+<lastmod>2019-08-14T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/tag/gamedev.html</loc>
-<lastmod>2019-08-07T12:00:00-04:56</lastmod>
+<lastmod>2019-08-14T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/tag/community.html</loc>
-<lastmod>2019-08-07T12:00:00-04:56</lastmod>
+<lastmod>2019-08-14T12:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/tag/habit.html</loc>
+<lastmod>2019-08-14T12:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/tag/productivity.html</loc>
+<lastmod>2019-08-14T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -229,13 +250,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/tag/writing.html</loc>
-<lastmod>2019-06-12T12:00:00-04:56</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://sidequestcompleted.com/tag/productivity.html</loc>
 <lastmod>2019-06-12T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -355,7 +369,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/author/side-quest-completed.html</loc>
-<lastmod>2019-08-07T12:00:00-04:56</lastmod>
+<lastmod>2019-08-14T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
