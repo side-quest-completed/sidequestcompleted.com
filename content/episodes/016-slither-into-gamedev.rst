@@ -17,7 +17,11 @@ Length: 33 minutes
 Links
 -----
 
+- `Python <https://python.org>`_
 - `PyGame <https://pygame.org>`_
+- `PyWeek <https://pyweek.org>`_
+- `RenPy <https://renpy.org>`_
+- `PursuedPyBear <https://github.com/ppb/pursuedpybear>`_
 
 
 Listen Now
