@@ -5,27 +5,41 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/index.html</loc>
-<lastmod>2020-01-29T19:54:04-00:00</lastmod>
+<lastmod>2020-02-18T21:38:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/archives.html</loc>
-<lastmod>2020-01-29T19:54:04-00:00</lastmod>
+<lastmod>2020-02-18T21:38:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/categories.html</loc>
-<lastmod>2020-01-29T19:54:04-00:00</lastmod>
+<lastmod>2020-02-18T21:38:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<loc>http://sidequestcompleted.com/episode-twenty-first-year-look-back.html</loc>
+<lastmod>2020-02-05T12:00:00-05:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://sidequestcompleted.com/episode-nineteen-global-game-jam.html</loc>
+<lastmod>2020-01-29T12:00:00-05:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/episode-twenty-one-game-updates-for-february-2020.html</loc>
 <lastmod>2020-01-29T12:00:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -159,21 +173,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/category/podcast.html</loc>
-<lastmod>2020-01-29T12:00:00-04:56</lastmod>
+<lastmod>2020-02-05T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/tag/gamedev.html</loc>
-<lastmod>2020-01-29T12:00:00-04:56</lastmod>
+<lastmod>2020-02-05T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/tag/personal.html</loc>
-<lastmod>2020-01-29T12:00:00-04:56</lastmod>
+<lastmod>2020-02-05T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -439,7 +453,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/author/side-quest-completed.html</loc>
-<lastmod>2020-01-29T12:00:00-04:56</lastmod>
+<lastmod>2020-02-05T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
