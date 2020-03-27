@@ -5,22 +5,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/index.html</loc>
-<lastmod>2020-03-25T21:15:30-00:00</lastmod>
+<lastmod>2020-03-26T23:46:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/archives.html</loc>
-<lastmod>2020-03-25T21:15:30-00:00</lastmod>
+<lastmod>2020-03-26T23:46:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/categories.html</loc>
-<lastmod>2020-03-25T21:15:30-00:00</lastmod>
+<lastmod>2020-03-26T23:46:06-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/episode-twenty-five-interview-with-ray-perry.html</loc>
+<lastmod>2020-03-18T12:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
