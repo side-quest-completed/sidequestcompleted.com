@@ -2,7 +2,7 @@ Episode Twenty-Six: Getting Back on Track During COVID-19
 #########################################################
 :date: 2020-04-01 12:00
 :category: Podcast
-:podcast: https://archive.org/downloadside-quest-completed-2020-04-01-episode-26/side-quest-completed-2020-04-01-episode-26.mp3
+:podcast: https://archive.org/download/side-quest-completed-2020-04-01-episode-26/side-quest-completed-2020-04-01-episode-26.mp3
 :tags: gamedev, personal
 :image: images/026-covid.jpeg
 :image-alt: The cover art for the game Knights of the Knightmare
