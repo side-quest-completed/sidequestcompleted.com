@@ -5,22 +5,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/index.html</loc>
-<lastmod>2020-04-07T23:32:17-00:00</lastmod>
+<lastmod>2020-04-15T20:04:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/archives.html</loc>
-<lastmod>2020-04-07T23:32:17-00:00</lastmod>
+<lastmod>2020-04-15T20:04:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/categories.html</loc>
-<lastmod>2020-04-07T23:32:17-00:00</lastmod>
+<lastmod>2020-04-15T20:04:57-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/episode-twenty-eight-on-the-road-again.html</loc>
+<lastmod>2020-04-15T12:00:00-04:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -215,21 +222,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/category/podcast.html</loc>
-<lastmod>2020-04-08T12:00:00-04:56</lastmod>
+<lastmod>2020-04-15T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/tag/gamedev.html</loc>
-<lastmod>2020-04-08T12:00:00-04:56</lastmod>
+<lastmod>2020-04-15T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://sidequestcompleted.com/tag/personal.html</loc>
-<lastmod>2020-04-08T12:00:00-04:56</lastmod>
+<lastmod>2020-04-15T12:00:00-04:56</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://sidequestcompleted.com/tag/themes.html</loc>
+<lastmod>2020-04-15T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -516,7 +530,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://sidequestcompleted.com/author/side-quest-completed.html</loc>
-<lastmod>2020-04-08T12:00:00-04:56</lastmod>
+<lastmod>2020-04-15T12:00:00-04:56</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
