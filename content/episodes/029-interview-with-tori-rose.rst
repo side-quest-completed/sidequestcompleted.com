@@ -2,7 +2,7 @@ Episode Twenty-Nine: Interview with Tori Rose
 #############################################
 :date: 2020-04-22 12:00
 :category: Podcast
-:podcast: https://archive.org/download/side-quest-completed-2020-04-225-episode-29/side-quest-completed-2020-04-22-episode-29-2.mp3
+:podcast: https://archive.org/download/side-quest-completed-2020-04-22-episode-29/side-quest-completed-2020-04-22-episode-29-2.mp3
 :tags: gamedev, personal, themes
 :image: images/029-secret-little-haven.png
 :image-alt: Logo for the game Secret Little Haven
