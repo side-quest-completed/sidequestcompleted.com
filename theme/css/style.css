@@ -311,7 +311,7 @@ article {
 }
 
 #banner img {
-  height: 200px;
+  max-height: 500px;
 }
 
 /* Figure and Image tweaks */
