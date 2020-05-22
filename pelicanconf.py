@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 from datetime import datetime
+import os
 
 AUTHOR = SITENAME = u'Side Quest Completed'
 SITEURL = 'http://sidequestcompleted.com'
@@ -56,10 +57,11 @@ STATIC_PATHS = [
     'extra',
     'images',
 ]
-EXTRA_PATH_METADATA = {
-    'extra/CNAME': {'path': 'CNAME'},
-    'extra/robots.txt': {'path': 'robots.txt'},
-}
+EXTRA_PATH_METADATA = {}
+for name in os.listdir('content/extra'):
+    EXTRA_PATH_METADATA[os.path.join('extra', name)] = {
+        'path': name,
+    }
 
 THEME = './themes/pelican-bootstrap3'
 PLUGIN_PATHS = ['./plugins', ]
@@ -116,18 +118,18 @@ BOOTSTRAP_NAVBAR_INVERSE = True
 # Site banner in the sidebar
 BANNER = True
 BANNER_ALL_PAGES = True
-BANNER_IMAGE = 'images/sqc_logobig.png'
+BANNER_IMAGE = 'images/logo-large.png'
 BANNER_IMAGE_CLASSES = ''
 BANNER_SUBTITLE = u'A hobbyist gamedev adventure!'
 BANNER_BACKGROUND_COLOR='#fff'
-SITELOGO = 'images/sqc_logobig.png'
+SITELOGO = 'images/logo-small.png'
 SITELOGO_SIZE = 20
 HIDE_SITENAME = True
 HIDE_SIDEBAR = True
 SIDEBAR_BRAND_SUBTITLE = u"A hobbyist gamedev adventure!"
-SIDEBAR_BRAND_IMAGE = 'images/sqc_logobig.png'
+SIDEBAR_BRAND_IMAGE = 'images/logo-small.png'
 SIDEBAR_BRAND_IMAGE_HEIGHT = 300
-FAVICON = 'images/sqc_logo.ico'
+FAVICON = 'favicon.ico'
 
 # iTunes plugin settings
 PODCAST_FEED_PATH = u'feeds/podcast.rss'
