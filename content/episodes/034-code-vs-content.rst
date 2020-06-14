@@ -1,5 +1,5 @@
-Episode Thirty-Forth: Code vs Content
-#####################################
+Episode Thirty-Four: Code vs Content
+####################################
 :date: 2020-05-27 12:00
 :category: Podcast
 :podcast: https://archive.org/download/side-quest-completed-2020-05-27-episode-34/side-quest-completed-2020-05-27-episode-34.mp3
