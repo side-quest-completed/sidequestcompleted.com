@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Side Quest Completed - Side Quest Completed</title><link href="http://sidequestcompleted.com/" rel="alternate"></link><link href="http://sidequestcompleted.com/feeds/side-quest-completed.atom.xml" rel="self"></link><id>http://sidequestcompleted.com/</id><updated>2020-05-27T12:00:00-04:00</updated><entry><title>Episode Thirty-Forth: Code vs Content</title><link href="http://sidequestcompleted.com/episode-thirty-forth-code-vs-content.html" rel="alternate"></link><published>2020-05-27T12:00:00-04:00</published><updated>2020-05-27T12:00:00-04:00</updated><author><name>Side Quest Completed</name></author><id>tag:sidequestcompleted.com,2020-05-27:episode-thirty-forth-code-vs-content.html</id><summary type="html">&lt;p&gt;The 34th episode of the Side Quest Completed podcast, a podcast about game development hobbies.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Side Quest Completed - Side Quest Completed</title><link href="http://sidequestcompleted.com/" rel="alternate"></link><link href="http://sidequestcompleted.com/feeds/side-quest-completed.atom.xml" rel="self"></link><id>http://sidequestcompleted.com/</id><updated>2020-05-27T12:00:00-04:00</updated><entry><title>Episode Thirty-Five: Second Heather Flowers Interview</title><link href="http://sidequestcompleted.com/episode-thirty-five-second-heather-flowers-interview.html" rel="alternate"></link><published>2020-05-27T12:00:00-04:00</published><updated>2020-05-27T12:00:00-04:00</updated><author><name>Side Quest Completed</name></author><id>tag:sidequestcompleted.com,2020-05-27:episode-thirty-five-second-heather-flowers-interview.html</id><summary type="html">&lt;p&gt;The 35th episode of the Side Quest Completed podcast, a podcast about game development hobbies.&lt;/p&gt;
+&lt;p&gt;Calvin and Jaycie welcome Heather Flowers back to the podcast for another conversation.&lt;/p&gt;
+&lt;p&gt;Length: 38 minutes&lt;/p&gt;
+&lt;div class="section" id="listen-now"&gt;
+&lt;h2&gt;Listen Now&lt;/h2&gt;
+
+        &lt;div class="podcast text-center"&gt;
+            &lt;iframe src="https://archive.org/embed/side-quest-completed-2020-06-13-episode-35" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen&gt;&lt;/iframe&gt;
+
+            &lt;div class="podcast-download"&gt;
+                &lt;a class="btn btn-primary btn-sm" href="https://archive.org/download/side-quest-completed-2020-06-13-episode-35/side-quest-completed-2020-06-13-episode-35.mp3"&gt;&lt;i class="fa fa-download"&gt;&lt;/i&gt; MP3&lt;/a&gt;
+                &lt;a class="btn btn-primary btn-sm" href="https://archive.org/download/side-quest-completed-2020-06-13-episode-35/side-quest-completed-2020-06-13-episode-35.ogg"&gt;&lt;i class="fa fa-download"&gt;&lt;/i&gt; OGG&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;div class="section" id="show-notes"&gt;
+&lt;h2&gt;Show Notes&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.blackgamedevs.com/"&gt;http://www.blackgamedevs.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://itch.io/b/520/bundle-for-racial-justice-and-equality"&gt;Bundle for Racial Justice and Equality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://itch.io/b/513/black-lives-matter-support-bundle"&gt;Black Lives Matter …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</summary><category term="gamedev"></category><category term="personal"></category></entry><entry><title>Episode Thirty-Four: Code vs Content</title><link href="http://sidequestcompleted.com/episode-thirty-four-code-vs-content.html" rel="alternate"></link><published>2020-05-27T12:00:00-04:00</published><updated>2020-05-27T12:00:00-04:00</updated><author><name>Side Quest Completed</name></author><id>tag:sidequestcompleted.com,2020-05-27:episode-thirty-four-code-vs-content.html</id><summary type="html">&lt;p&gt;The 34th episode of the Side Quest Completed podcast, a podcast about game development hobbies.&lt;/p&gt;
 &lt;p&gt;Calvin and Jaycie talk about the balance between code and content in the design and impementation of making games.&lt;/p&gt;
 &lt;p&gt;Length: 38 minutes&lt;/p&gt;
 &lt;div class="section" id="listen-now"&gt;
