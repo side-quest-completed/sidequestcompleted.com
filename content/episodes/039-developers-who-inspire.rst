@@ -13,6 +13,11 @@ Calvin and Jaycie talk about game developers who inspire us.
 
 Length: 75 minutes
 
+Show Notes
+----------
+
+(Pending.)
+
 Listen Now
 ----------
 .. podcast:: side-quest-completed-2020-07-29-episode-39
