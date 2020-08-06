@@ -1,6 +1,6 @@
 Episode Forty: Our Monthy Updates (August 2020)
 ###############################################
-:date: 2020-07-29 12:00
+:date: 2020-08-05 12:00
 :category: Podcast
 :podcast: https://archive.org/details/side-quest-completed-2020-08-05-episode-40
 :tags: gamedev, personal, updates
