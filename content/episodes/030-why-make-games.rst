@@ -20,7 +20,7 @@ Listen Now
 Show Notes
 ----------
 
-- `Omnus 7 <https://en.wikipedia.org/wiki/Omnis_Studio>`_
+- `Omnis 7 <https://en.wikipedia.org/wiki/Omnis_Studio>`_
 - `Hypercard <https://en.wikipedia.org/wiki/HyperCard>`_
 - `Apple II Basic <https://en.wikipedia.org/wiki/Applesoft_BASIC>`_
 
