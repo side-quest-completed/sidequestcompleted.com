@@ -9,3 +9,5 @@ Development notes
 =================
 
 To develop and build this website **Python3.6** is required!
+
+To start, run *source .env/bin/activate* to load the local Python environment. Then run *make* to see the available commands.
