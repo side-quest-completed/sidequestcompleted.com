@@ -1,8 +1,8 @@
-Episode Forty One: Games We Would Blatantly Copy
-################################################
+Episode Forty One: Games We Would Blatantly Copy (Fixed)
+########################################################
 :date: 2020-08-12 12:00
 :category: Podcast
-:podcast: https://archive.org/details/side-quest-completed-2020-08-12-episode-41
+:podcast: https://archive.org/download/side-quest-completed-2020-08-12-episode-41/side-quest-completed-2020-08-12-episode-41.mp3
 :tags: gamedev, personal, updates
 :image: images/logo-small.png
 :image-alt: SQC Logo.
